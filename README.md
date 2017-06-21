@@ -1,0 +1,1 @@
+# EndOfDay-feeder-for-KDB-tickerplant
